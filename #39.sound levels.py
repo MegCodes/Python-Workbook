@@ -1,3 +1,4 @@
+#Version 1
 noise = int(input('Enter the sound level in decibels: '))
 
 if noise < 40:
@@ -21,7 +22,7 @@ else:
 
 
 
-
+#Version 2
 def sound_level():
     noise = int(input('Enter the sound level in decibels (134 to quit): '))
     while True:
