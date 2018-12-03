@@ -14,5 +14,3 @@ while True:
         total += 18.00
     else:
         total += 23.00
-
-
