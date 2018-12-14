@@ -1,4 +1,4 @@
-#Version 1test
+#Version 1
 noise = int(input('Enter the sound level in decibels: '))
 
 if noise < 40:
