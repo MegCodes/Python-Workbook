@@ -9,3 +9,6 @@ class Addressee():
     def mailing_address(self):
         formatted_address = f"{self.addressee}\n{self.street}\n{self.city}\n{self.country}"
         return formatted_address
+
+
+
